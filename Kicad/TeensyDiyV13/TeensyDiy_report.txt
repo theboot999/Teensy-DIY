@@ -1,0 +1,48 @@
+PCB statistics report
+=====================
+- Date: 18/03/2025 7:39:27 AM
+- Project: TeensyDiy
+- Board name: TeensyDiy
+
+Board
+-----
+- Width: 59.8300 mm
+- Height: 36.6800 mm
+- Area: 2194.5644 mm²
+
+Pads
+----
+- Through hole: 78
+- SMD: 424
+- Connector: 0
+- NPTH: 0
+
+Vias
+----
+- Through vias: 325
+- Blind/buried: 0
+- Micro vias: 0
+
+Components
+----------
+
+|              | Front Side | Back Side | Total |
+|--------------|------------|-----------|-------|
+|THT:          |          0 |         4 |     4 |
+|SMD:          |         60 |         3 |    63 |
+|Unspecified:  |          0 |         0 |     0 |
+|Total:        |         60 |         7 |    67 |
+
+Drill holes
+-----------
+
+| Count | Shape |    X Size |    Y Size | Plated | Via/Pad | Start Layer | Stop Layer |
+|-------|-------|-----------|-----------|--------|---------|-------------|------------|
+|   225 | Round | 0.2100 mm | 0.2100 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    74 | Round | 1.0000 mm | 1.0000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|    63 | Round | 0.3000 mm | 0.3000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|    35 | Round | 0.2500 mm | 0.2500 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     2 |  Slot | 1.2000 mm | 0.7000 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     2 |  Slot | 1.0500 mm | 0.6500 mm |    PTH |     Pad |        F.Cu |       B.Cu |
+|     1 | Round | 0.4000 mm | 0.4000 mm |    PTH |     Via |        F.Cu |       B.Cu |
+|     1 | Round | 0.3500 mm | 0.3500 mm |    PTH |     Via |        F.Cu |       B.Cu |
